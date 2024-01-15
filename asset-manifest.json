@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AshishBhambure/Blog-Web/static/css/main.21df8a57.css",
+    "main.js": "/AshishBhambure/Blog-Web/static/js/main.ddea84c3.js",
+    "index.html": "/AshishBhambure/Blog-Web/index.html",
+    "main.21df8a57.css.map": "/AshishBhambure/Blog-Web/static/css/main.21df8a57.css.map",
+    "main.ddea84c3.js.map": "/AshishBhambure/Blog-Web/static/js/main.ddea84c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21df8a57.css",
+    "static/js/main.ddea84c3.js"
+  ]
+}
